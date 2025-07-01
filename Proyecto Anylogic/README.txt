@@ -1,1 +1,1 @@
-
+Para poder tener una visualización clara de todos los elementos presentados en las diapositivas es recomendable abrir el documento e PowerPoint, Se ha hecho un informe para la vista de todo lo presentado en la exposición en un archivo llamado Informe_Deriva_Genética que contiene mas explicaciones para su comprensión.
